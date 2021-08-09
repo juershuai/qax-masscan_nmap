@@ -1,6 +1,6 @@
 使用方法： 
 
-1、将奇安信资产发现和masscan_nmap(https://github.com/7dog7/masscan_to_nmap)扫描结果导出 
+1、将奇安信资产发现和 [masscan_nmap](https://github.com/7dog7/masscan_to_nmap) 扫描结果导出 
 
 2、python3 qax+masscan_nmap qax_3.xlsx
 
